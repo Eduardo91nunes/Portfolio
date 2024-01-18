@@ -1,0 +1,79 @@
+body {
+    background-color: #737373;
+    height: 100%;
+    font-family: 'Roboto mono','Roboto',sans-serif;
+}
+
+
+.sobre {
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    line-height: 1.5rem;
+    border-bottom: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.imagem {
+    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 18px;
+    margin-top: 25px;
+}
+
+h3 {
+    font-size: 13px;
+    margin-top: 25px;
+    
+}
+
+.experiencia {
+
+    font-size: 13px;
+    margin-left: 20px;
+    margin-right: 20px;
+    line-height: 9px;
+    border-bottom: 1px solid black;
+    line-height: 1.5rem;
+}
+
+.data {
+    font-size: 13px;
+    margin-top: 0;
+    line-height: 1.5rem;
+}
+
+.formacao {
+
+    font-size: 13px;
+    margin-left: 20px;
+    margin-right: 20px;
+    line-height: 9px;
+    border-bottom: 1px solid black;
+    line-height: 1.5rem;
+}
+
+.contatos {
+    margin-left: 20px;
+    
+}
+
+a:link {
+    text-decoration: none;
+    color: #02C100;
+    padding: 0.3rem;
+}
+
+a:hover {
+    text-decoration: underline;
+}
